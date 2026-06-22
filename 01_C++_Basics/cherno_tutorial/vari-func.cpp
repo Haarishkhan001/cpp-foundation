@@ -10,7 +10,5 @@ int main (){
 
     // float=21.34;
     double left=314.542;git add vari-func.cpp
-git commit -m "Add vari-func.cpp tutorial file"
-git push
-    cout<< left << endl;
+
 }
